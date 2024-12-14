@@ -5,7 +5,8 @@ var greetings = new Dictionary<string, string>
     { "ru", "Привет" },
     { "fr", "Bonjour" },
     { "es", "Hola" },
-    { "de", "Hallo" }
+    { "de", "Hallo" },
+    { "ko", "안녕하세요" }
 };
 
 string? input;
